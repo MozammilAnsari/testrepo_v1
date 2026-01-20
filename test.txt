@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+Hello this is under branch2
+
+>>>>>>> 268645ec2ecb9ff0408a50c60583461b36f3a2d5
 Hello we are in main branch
 
 Adding a line for test
@@ -8,4 +13,7 @@ Adding details for 5th commit
 
 Adding details of 6th commit
 
+<<<<<<< HEAD
 Hello this is under branch
+=======
+>>>>>>> 268645ec2ecb9ff0408a50c60583461b36f3a2d5
