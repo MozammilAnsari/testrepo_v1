@@ -1,3 +1,5 @@
+Hello this is under branch2
+
 Hello we are in main branch
 
 Adding a line for test
@@ -7,3 +9,4 @@ Adding 3rd line for testing checkout
 Adding details for 5th commit
 
 Adding details of 6th commit
+
